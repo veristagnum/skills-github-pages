@@ -1,5 +1,5 @@
 ---
-title: "Set Up A Minimal Blog Site Using Github Pages"
+title: "Setup a minimal blog site using Github Pages"
 date: 2025-11-05
 ---
 
